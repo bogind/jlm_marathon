@@ -8,3 +8,10 @@ body {
     bottom: 0; 
     width: 100%; 
 }
+p {
+    margin: 5px;
+}
+a{
+    color: blue;
+    white-space: nowrap;
+}
